@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Welcome to Liquidified Dao!</title>
+        <title>Welcome to Liquified Dao</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Gain passive exposure to NFTs and turn your NFTs liquid
+          Gain passive exposure to NFTs and turn your NFTs liquid!
         </p>
       </main>
 
