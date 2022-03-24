@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           Gain passive exposure to NFTs and turn your NFTs liquid!
         </p>
+        <form action="https://google.com">
+    <input type="submit" value="Go to Google" />
+</form>
       </main>
 
       <Footer />
