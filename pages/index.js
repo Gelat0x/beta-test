@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Gain passive exposure to NFTs and turn your NFTs liquid!
         </p>
-        <form action="https://glowing-zuccutto-ef56ff.netlify.app/">
+        <form action="liquified-dao-bonds.netlify.app">
     <input type="submit" value="Launch App" />
 </form>
       </main>
